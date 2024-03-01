@@ -1,0 +1,18 @@
+{
+  "name": "windows-10-os",
+  "version": "1.0.0",
+  "description": "desktop environment in the browser",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HishamKTD/windowsos.git"
+  },
+  "author": "hisham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HishamKTD/windowsos/issues"
+  },
+  "homepage": "https://github.com/HishamKTD/windowsos#readme"
+}
