@@ -1,0 +1,8 @@
+{
+    "editor.fontSize": 16,
+    "editor.cursorStyle": "block",
+    "editor.wordWrap": "off",
+    "files.exclude": {
+        ".vscode": true
+    }
+}
