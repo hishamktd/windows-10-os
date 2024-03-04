@@ -1,8 +1,8 @@
 {
-    "editor.fontSize": 14,
-    "editor.cursorStyle": "line",
-    "editor.wordWrap": "off",
-    "files.exclude": {
-        ".vscode": true
-    }
+  "editor.fontSize": 14,
+  "editor.cursorStyle": "line",
+  "editor.wordWrap": "off",
+  "files.exclude": {
+    ".vscode": true
+  }
 }
